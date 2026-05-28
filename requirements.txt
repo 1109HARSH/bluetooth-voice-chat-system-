@@ -1,0 +1,5 @@
+rsa
+vidstream
+keyboard
+pyaudio
+winsound
